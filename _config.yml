@@ -1,8 +1,8 @@
-title:            Chris McQuilkin
+title:            Chris
 email:            cmcquilkin@ucsb.edu
 description:      Environmental Historian of Modern Latin America
 author:            Chris McQuilkin
-baseurl:           "/Chris-McQuilkin" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
+baseurl:           "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
 url:               "localhost:4000" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 
 collections:
