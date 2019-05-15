@@ -8,6 +8,7 @@ background: '/img/andenes.jpg' # notice how the image referenced is in your proj
 ---
 
 Environmental history of Latin America is a rapidly growing specialty. Key authors: Stefania Gallini, Mark Carey, Warren Dean.
+![description](/img/la-villa-imperial.jpg)
 
 ---
 
