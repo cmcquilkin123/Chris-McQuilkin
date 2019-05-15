@@ -13,3 +13,4 @@ This is a test of my second blog post.
 ---
 
 This is a test of my second blog post.
+---
