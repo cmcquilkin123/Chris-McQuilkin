@@ -10,6 +10,9 @@ background: '/img/andenes.jpg' # notice how the image referenced is in your proj
 This is a test of my second blog post.
 ![description](/img/andenes.jpg)
 
+
+
+aaa
 ---
 
 This is a test of my second blog post.
