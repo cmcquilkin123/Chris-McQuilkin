@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 7
-description: Land, Water, and Resource Nationalism Part 2 Bolivia
+description: Land, Water, and Resource Nationalism Part II Bolivia
 background: '/img/la-villa-imperial.jpg'
 ---
 

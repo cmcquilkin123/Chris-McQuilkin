@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 6
-description: Land, Water, and Resource Nationalism Part I: Mexico
+description: Land, Water, and Resource Nationalism Part I Mexico
 background: '/img/la-villa-imperial.jpg'
 ---
 
