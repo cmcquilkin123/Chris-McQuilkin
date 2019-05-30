@@ -4,7 +4,6 @@ title: Filter
 description: Background and Interests.
 background: '/img/la-villa-imperial.jpg'
 ---
-<!DOCTYPE html>
 <html>
 <style>
 .filterDiv {
