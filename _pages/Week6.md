@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 1
-description: Introduction to Latin American Environmental History
+title: Week 6
+description: Land, Water, and Resource Nationalism Part I: Mexico
 background: '/img/la-villa-imperial.jpg'
 ---
 

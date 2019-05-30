@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 1
-description: Introduction to Latin American Environmental History
+title: Week 3
+description: Colonizing Knowledge
 background: '/img/la-villa-imperial.jpg'
 ---
 

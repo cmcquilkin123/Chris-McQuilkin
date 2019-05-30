@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 10
-description: 
+description: Global Warming, the Anthropocene, and Latin America
 background: '/img/la-villa-imperial.jpg'
 ---
 

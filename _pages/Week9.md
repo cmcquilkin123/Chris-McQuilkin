@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 1
-description: Introduction to Latin American Environmental History
+title: Week 9
+description: Neoliberalism and Resource Conflicts in Latin America
 background: '/img/la-villa-imperial.jpg'
 ---
 
