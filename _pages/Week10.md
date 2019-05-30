@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 10
-description: Introduction to Latin American Environmental History
+description: 
 background: '/img/la-villa-imperial.jpg'
 ---
 
