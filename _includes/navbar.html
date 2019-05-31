@@ -4,18 +4,89 @@
 To add new links, follow the example below (and activate it it by removing the arrowy things!) Copy and paste as many times as needed, but bear in mind that the bar can get rather crowded quickly.
 -->
 
-
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
     <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      Menu
-      <i class="fa fa-bars"></i>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
+<!-- To add a clickable item with sub, items, copy from here... -->
+    <!--Sample dropdown -->
+    <!--    <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About the Project</a><!-- Text of a clickable drop-down menu button -->
+    <!--        <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Contributors</a><!--Item in drop-down menu-->
+    <!--            <a class="dropdown-item" href="#">Another action</a><!--Item in drop-down menu-->
+    <!--            <div class="dropdown-divider"></div><!--This indicates that a thin line should be inserted, in case you want to differentiate the items-->
+  <!--              <a class="dropdown-item" href="#">Something else here</a><!-- Item in drop-down menu -->
+<!--            </div> <!-- ...To here -->
+
+
+            <!--About the Project -->
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About the Project</a><!-- Text of a clickable drop-down menu button -->
+                    <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="{{"/ProjectAim" | relative_url }}">Aims of the Project</a><!--Item in drop-down menu-->
+                        <a class="dropdown-item" href="{{"/Archives" | relative_url }}">Archives & Manumission Statements</a><!-- Item in drop-down menu -->
+                        <a class="dropdown-item" href="{{"/Silences" | relative_url }}">Silences in the Archives</a><!-- Item in drop-down menu -->
+                        <div class="dropdown-divider"></div><!--This indicates that a thin line should be inserted, in case you want to differentiate the items-->
+                        <a class="dropdown-item" href="{{"/Contributors" | relative_url }}">Contributors</a><!--Item in drop-down menu-->
+                    </div> <!-- ...To here -->
+
+                    <!--Types of Slavery -->
+                        <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Types of Slavery</a><!-- Text of a clickable drop-down menu button -->
+                            <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="{{"/PearlDivers" | relative_url }}">Pearl Divers</a><!--Item in drop-down menu-->
+                                <a class="dropdown-item" href="{{"/Labor" | relative_url }}">Domestic Labor</a><!-- Item in drop-down menu -->
+                                <a class="dropdown-item" href="{{"/concubine" | relative_url }}">Concubinage</a><!-- Item in drop-down menu -->
+                                <a class="dropdown-item" href="{{"/childslavery" | relative_url }}">Child Slavery</a><!--Item in drop-down menu-->
+                            </div> <!-- ...To here -->
+
+                  <!--Experiences of Slavery -->
+                      <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Experiences of Slavery</a><!-- Text of a clickable drop-down menu button -->
+                             <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="{{"/SlaveRoutes" | relative_url }}">Slave Routes</a><!--Item in drop-down menu-->
+                                <a class="dropdown-item" href="{{"/marriage" | relative_url }}">Slave Marriage</a><!-- Item in drop-down menu -->
+                                <a class="dropdown-item" href="{{"/abuse" | relative_url }}">Abuse & Sexual Assault</a><!-- Item in drop-down menu -->
+                                <a class="dropdown-item" href="{{"/socialanchors" | relative_url }}">Social Anchors</a><!--Item in drop-down menu-->
+                            </div> <!-- ...To here -->
+
+                  <!--Slave Journeys-->
+                      <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Slaves' Journey</a><!-- Text of a clickable drop-down menu button -->
+                           <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                              <a class="dropdown-item" href="{{"/binHashim" | relative_url }}">Su’aiyid bin Hashim</a><!--Item in drop-down menu-->
+                              <a class="dropdown-item" href="{{"/Maryam" | relative_url }}">Maryam Daughter of Omar</a><!-- Item in drop-down menu -->
+                              <a class="dropdown-item" href="{{"/binHasan" | relative_url }}">Zayyud bin Hasan</a><!-- Item in drop-down menu -->
+                              <a class="dropdown-item" href="{{"/AlUtaibi" | relative_url }}">Abdullah Al’Utaibi</a><!--Item in drop-down menu-->
+                                      </div> <!-- ...To here -->
+
+                  <!--Slavery in the Indian Ocean-->
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Slavery in the Indian Ocean</a><!-- Text of a clickable drop-down menu button -->
+                      <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                          <a class="dropdown-item" href="{{"/BritishRule" | relative_url }}">British Rule in the Perian Gulf</a><!--Item in drop-down menu-->
+                          <a class="dropdown-item" href="{{"/SlaveTrade" | relative_url }}">Slave Trade</a><!-- Item in drop-down menu -->
+                          <a class="dropdown-item" href="{{"/Debates" | relative_url }}">Current Debates</a><!-- Item in drop-down menu -->
+                                  </div> <!-- ...To here -->
+
+                  <!-- Contact -->
+                         </li>
+                            <li class="nav-item"> <!-- A normal, non clickable menu button -->
+                              <a class="nav-link" href="{{"/contact" | relative_url }}">Contact Us</a>
+                                  </li>
+
+
+
+
+<!-- To add a normal item with copy from here... -->
+    <!--    </li>
+        <li class="nav-item"> <!-- A normal, non clickable menu button -->
+<!--          <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
@@ -24,44 +95,11 @@ To add new links, follow the example below (and activate it it by removing the a
           <a class="nav-link" href="{{"/posts" | relative_url }}">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{"/filter" | relative_url }}">Filter</a>
+          <a class="nav-link" href="/updates">Yemen War Updates</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{"/week1" | relative_url }}"> <font color="black">Week 1</font></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week2" | relative_url }}">Week 2</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week3" | relative_url }}">Week 3</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week4" | relative_url }}">Week 4</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week5" | relative_url }}">Week 5</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week6" | relative_url }}">Week 6</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week7" | relative_url }}">Week 7</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week8" | relative_url }}">Week 8</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week9" | relative_url }}">Week 9</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/week10" | relative_url }}">Week 10</a>
-        </li>
-
-<!--
-        <li class="nav-item">
-          <a class="nav-link" href="http://example.com">link text</a>
-        </li>
--->
+          <a class="nav-link" href="/Contact">Contact</a>
+        </li> <!-- ...To here -->
       </ul>
     </div>
   </div>
