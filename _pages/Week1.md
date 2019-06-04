@@ -6,5 +6,10 @@ background: '/img/la-villa-imperial.jpg'
 ---
 Discuss origins of the field, relation to environmental activism, relation to dependency theory, and more recent developments.
 
-[download This](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=a0eefcbbcc&attid=0.1&permmsgid=msg-a:r3977160690091972809&th=16b1a4e70e60e3cf&view=att&disp=inline&realattid=f_jwfimyw00&saddbat=ANGjdJ_mh5Z51LnQggXJQ9I04ituPV8bboulj5yeF5jDMLNq6et4If2QRKDN6WJrkoEOPWNFVUe4y376PeSC2xd-jlyJDubEQmFjJaJGtBbDhEd9kjMhWOokezCNyjb3qfaYCmfADWRyq7iRm4wRCSoejneBoYwaiaglczFoyKhTOhxiNQ48RVkJHvom-4d4abWk8rudnHpJzpoBKG68oE8usRkfmXlIuOmggrS9UnknNxzWr3hyiny0720WycDtJ5mZVUPurUiDX6yeWbs3yJzk6dbasgNN42iTbvuV03ym9aopwAsDk5sWKlSlLsQoM7HU9gSrtMCWPEl3Uw3u4dnV1cCw21Dfge213EjKS3uQs3ClbQ3oXeoCXjcohc-xECb13gwVc8J9g_TNvjL9mxPTZdsZnYaqcPNdXYdDfG1Ci-AYOsy-fau97N37hdoQ-weixjxKx2w9pL49VrY3GrWtin2jm3WQqKTtQnsTF_mfzp8RU0pupaDen7NAGpwn3a_H1iYy1FeC6z9xf0o6WwvKXrOf6heY8B_0CZjYoGh1Z62EObWiieTyBfYAKXdUyr0YK-Pu31__P0JnTpSUSLajnUpml6N6WfQiRDz0vYvnC50KCIJcfP3oGpWGtAzXYSQw-pdUAttyniHdDxua-lY2RUdbGYYBLkDQDFXKVA)
-you can [get the PDF](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=a0eefcbbcc&attid=0.1&permmsgid=msg-a:r3977160690091972809&th=16b1a4e70e60e3cf&view=att&disp=inline&realattid=f_jwfimyw00&saddbat=ANGjdJ_mh5Z51LnQggXJQ9I04ituPV8bboulj5yeF5jDMLNq6et4If2QRKDN6WJrkoEOPWNFVUe4y376PeSC2xd-jlyJDubEQmFjJaJGtBbDhEd9kjMhWOokezCNyjb3qfaYCmfADWRyq7iRm4wRCSoejneBoYwaiaglczFoyKhTOhxiNQ48RVkJHvom-4d4abWk8rudnHpJzpoBKG68oE8usRkfmXlIuOmggrS9UnknNxzWr3hyiny0720WycDtJ5mZVUPurUiDX6yeWbs3yJzk6dbasgNN42iTbvuV03ym9aopwAsDk5sWKlSlLsQoM7HU9gSrtMCWPEl3Uw3u4dnV1cCw21Dfge213EjKS3uQs3ClbQ3oXeoCXjcohc-xECb13gwVc8J9g_TNvjL9mxPTZdsZnYaqcPNdXYdDfG1Ci-AYOsy-fau97N37hdoQ-weixjxKx2w9pL49VrY3GrWtin2jm3WQqKTtQnsTF_mfzp8RU0pupaDen7NAGpwn3a_H1iYy1FeC6z9xf0o6WwvKXrOf6heY8B_0CZjYoGh1Z62EObWiieTyBfYAKXdUyr0YK-Pu31__P0JnTpSUSLajnUpml6N6WfQiRDz0vYvnC50KCIJcfP3oGpWGtAzXYSQw-pdUAttyniHdDxua-lY2RUdbGYYBLkDQDFXKVA) directly.
+[Download This](LA_EH.pdf)
+
+<object data="http://localhost:4000/LA_EH.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://localhost:4000/LA_EH.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
