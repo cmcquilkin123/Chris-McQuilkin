@@ -22,3 +22,6 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
