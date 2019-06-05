@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Filter
+title: Mapping the Gran Chaco
 description: Background and Interests.
 background: '/img/la-villa-imperial.jpg'
 ---
+<iframe src="https://api.mapbox.com/styles/v1/cmcquilkin/cjtajxpw819ib1fma0wss7su6.html?fresh=true&title=true&access_token=pk.eyJ1IjoiY21jcXVpbGtpbiIsImEiOiJjanJoMWI0ZG0wMnZpM3l0MHM0bWVlbGFpIn0.RuixYRSV3hkcp2C3jMAbhA#2.1/-22.476997/-59.596439/0" width="100%" height ="300px" frameborder="0"></iframe>
+
 <html>
 <style>
 .filterDiv {
