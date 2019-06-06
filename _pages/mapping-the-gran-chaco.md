@@ -52,15 +52,19 @@ background: '/img/la-villa-imperial.jpg'
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-  <button class="btn" onclick="filterSelection('animals')"> Animals</button>
-  <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
-  <button class="btn" onclick="filterSelection('colors')"> Colors</button>
+  <button class="btn" onclick="filterSelection('sts')"> STS</button>
+  <button class="btn" onclick="filterSelection('labor')"> Labor and EH</button>
+  <button class="btn" onclick="filterSelection('water')"> Water Histories</button>
+  <button class="btn" onclick="filterSelection('forests')"> Forests and Deforestation</button>
+  <button class="btn" onclick="filterSelection('mining')"> Mining</button>
+  <button class="btn" onclick="filterSelection('scimed')"> Science, Knowledge and Medicine</button>
+  <button class="btn" onclick="filterSelection('conservation')"> Conservation and Environmentalism</button>
+  <button class="btn" onclick="filterSelection('commodities')"> Commodities</button>
 </div>
 
 <div class="container">
-  <div class="filterDiv cars">BMW</div>
-  <div class="filterDiv colors fruits">Orange</div>
+  <div class="filterDiv scimed">Science in the Vanished Arcadia</div>
+  <div class="filterDiv sts">Networking Peripheries</div>
   <div class="filterDiv cars">Volvo</div>
   <div class="filterDiv colors">Red</div>
   <div class="filterDiv cars animals">Mustang</div>
